@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ansh Choudhary</h1>
-<h3 align="center">Passionate tech enthusiast | MERN stack developer with expertise in C++, JavaScript, and Solidity 💻 | Competitive programmer, LeetCode Knight and Codeforces Specialist 🏆 | Chess aficionado and content creator on YouTube 📺 | Excited about innovation and open source contributions!✨ </h3>
+<h3 align="center">Passionate tech enthusiast | MERN stack developer with expertise in C++, JavaScript, and Python 💻 | Competitive programmer, LeetCode Knight and Codeforces Specialist 🏆 | Chess player and content creator on YouTube 📺 | Excited about innovation and open source contributions!✨ </h3>
 <img align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 💬 Ask me about **Javascript, React, Node.js, C++,SQL and DBMS**
+- 💬 Ask me about **Javascript, React, Node.js, C++,SQL, DBMS, Chatbot, Data Science and RAG**
 
 - 📫 How to reach me **anshchoudhary155@gmail.com**
 
