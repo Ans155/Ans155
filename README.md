@@ -6,7 +6,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **anshchoudhary155@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EY8c-lLzNSoTuCNeHFefZhZsA105RMNo/view?usp=drivesdk](https://drive.google.com/file/d/1EY8c-lLzNSoTuCNeHFefZhZsA105RMNo/view?usp=drivesdk)
+- 📄 Know about my experiences https://drive.google.com/file/d/1uu-lK9dYM5QZy7klnKAaXmF43g8d_Mch/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
